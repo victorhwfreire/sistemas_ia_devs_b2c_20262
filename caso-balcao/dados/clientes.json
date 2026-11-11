@@ -1,0 +1,16 @@
+{
+  "clientes": [
+    {"id": "CLI-101", "nome": "Mercearia Dois Irmãos", "plano": "Pro", "mensalidade": 189.90, "desde": "2023-03-10", "status": "ativo"},
+    {"id": "CLI-102", "nome": "Estúdio Pilates Vida", "plano": "Pro", "mensalidade": 189.90, "desde": "2024-07-01", "status": "ativo"},
+    {"id": "CLI-103", "nome": "TechParts Distribuidora", "plano": "Empresas", "mensalidade": 489.00, "desde": "2022-11-21", "status": "ativo"},
+    {"id": "CLI-104", "nome": "Padaria Pão Quente", "plano": "Essencial", "mensalidade": 89.90, "desde": "2025-02-14", "status": "ativo"},
+    {"id": "CLI-105", "nome": "Clínica Sorriso Feliz", "plano": "Pro", "mensalidade": 189.90, "desde": "2024-01-08", "status": "ativo"},
+    {"id": "CLI-106", "nome": "Oficina do Pedal", "plano": "Essencial", "mensalidade": 89.90, "desde": "2025-06-30", "status": "ativo"},
+    {"id": "CLI-107", "nome": "Restaurante Maré Alta", "plano": "Pro", "mensalidade": 189.90, "desde": "2023-09-12", "status": "ativo"},
+    {"id": "CLI-108", "nome": "Loja Bela Casa", "plano": "Essencial", "mensalidade": 89.90, "desde": "2024-04-22", "status": "ativo"},
+    {"id": "CLI-109", "nome": "Academia Fitness Prime", "plano": "Empresas", "mensalidade": 489.00, "desde": "2023-01-30", "status": "ativo"},
+    {"id": "CLI-110", "nome": "Empório Grão Nobre", "plano": "Pro", "mensalidade": 189.90, "desde": "2024-10-03", "status": "ativo"},
+    {"id": "CLI-111", "nome": "Farmácia Bem Estar", "plano": "Pro", "mensalidade": 189.90, "desde": "2022-08-15", "status": "ativo"},
+    {"id": "CLI-112", "nome": "Bazar Estrela", "plano": "Essencial", "mensalidade": 89.90, "desde": "2025-09-01", "status": "ativo"}
+  ]
+}

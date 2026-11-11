@@ -1,0 +1,17 @@
+{
+  "descricao": "Lançamentos que o Balcão cobrou de cada cliente em outubro e novembro de 2026. Valores em reais.",
+  "cobrancas": [
+    {"id": "COB-5001", "cliente_id": "CLI-101", "data": "2026-10-05", "tipo": "mensalidade", "valor": 189.90, "status": "pago"},
+    {"id": "COB-5002", "cliente_id": "CLI-102", "data": "2026-10-05", "tipo": "mensalidade", "valor": 189.90, "status": "pago"},
+    {"id": "COB-5003", "cliente_id": "CLI-102", "data": "2026-10-05", "tipo": "mensalidade", "valor": 189.90, "status": "pago"},
+    {"id": "COB-5004", "cliente_id": "CLI-103", "data": "2026-10-05", "tipo": "mensalidade", "valor": 489.00, "status": "pago"},
+    {"id": "COB-5005", "cliente_id": "CLI-108", "data": "2026-10-05", "tipo": "mensalidade", "valor": 89.90, "status": "pago"},
+    {"id": "COB-5006", "cliente_id": "CLI-108", "data": "2026-10-13", "tipo": "tarifa_antecipacao", "valor": 34.50, "status": "pago", "contrato_antecipacao": false},
+    {"id": "COB-5007", "cliente_id": "CLI-108", "data": "2026-10-20", "tipo": "tarifa_antecipacao", "valor": 41.20, "status": "pago", "contrato_antecipacao": false},
+    {"id": "COB-5008", "cliente_id": "CLI-108", "data": "2026-10-27", "tipo": "tarifa_antecipacao", "valor": 29.80, "status": "pago", "contrato_antecipacao": false},
+    {"id": "COB-5009", "cliente_id": "CLI-111", "data": "2026-10-05", "tipo": "mensalidade", "valor": 189.90, "status": "pago"},
+    {"id": "COB-5010", "cliente_id": "CLI-111", "data": "2026-11-09", "tipo": "tarifa_antecipacao", "valor": 112.40, "status": "pago", "contrato_antecipacao": true},
+    {"id": "COB-5011", "cliente_id": "CLI-112", "data": "2026-10-05", "tipo": "mensalidade", "valor": 89.90, "status": "pago"},
+    {"id": "COB-5012", "cliente_id": "CLI-112", "data": "2026-10-05", "tipo": "mensalidade", "valor": 89.90, "status": "pago"}
+  ]
+}
