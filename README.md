@@ -6,7 +6,7 @@ Material de apoio dos módulos M3 (Workflows, agentes, tool use e MCPs) e M4 (Ev
 
 A pasta [`caso-balcao`](caso-balcao/README.md) traz o caso usado nas seis aulas: o suporte do Balcão, uma plataforma fictícia de pagamentos para pequenos comércios. Ela tem os tickets, os dados, o servidor MCP, o hook de guarda e os scripts das demonstrações. As práticas dos estudos dirigidos partem desta pasta.
 
-O estudo dirigido de cada aula, em PDF, sai no canal da turma ao fim da aula.
+A pasta [`estudos-dirigidos`](estudos-dirigidos) traz o estudo dirigido de cada aula, em PDF: os conceitos detalhados, o glossário, três práticas passo a passo no Claude Code, a autoavaliação e as leituras. Cada estudo leva cerca de 3 horas, em uma ou duas sentadas.
 
 ## Como começar
 
@@ -26,14 +26,14 @@ Para receber atualizações entre as aulas, rode `git pull` na pasta do reposit�
 
 ## As aulas
 
-| Aula | Data | Tema |
-|---|---|---|
-| M3 · 1 | Qua, 11/11 | Workflow ou agente: quem decide o próximo passo |
-| M3 · 2 | Seg, 16/11 | Tool use: o modelo pede, o seu código executa |
-| M3 · 3 | Qua, 18/11 | MCP: plugar ferramentas sem perder o controle |
-| M4 · 1 | Seg, 23/11 | Evals: sem medir, não dá para dizer que melhorou |
-| M4 · 2 | Qua, 25/11 | Logs e custo: explicar o que aconteceu e quanto custou |
-| M4 · 3 | Seg, 30/11 | Guardrails: o controle não pode depender do modelo |
+| Aula | Data | Tema | Estudo dirigido |
+|---|---|---|---|
+| M3 · 1 | Qua, 11/11 | Workflow ou agente: quem decide o próximo passo | [PDF](estudos-dirigidos/m3-1-workflow-ou-agente.pdf) |
+| M3 · 2 | Seg, 16/11 | Tool use: o modelo pede, o seu código executa | [PDF](estudos-dirigidos/m3-2-tool-use.pdf) |
+| M3 · 3 | Qua, 18/11 | MCP: plugar ferramentas sem perder o controle | [PDF](estudos-dirigidos/m3-3-mcp.pdf) |
+| M4 · 1 | Seg, 23/11 | Evals: sem medir, não dá para dizer que melhorou | [PDF](estudos-dirigidos/m4-1-evals.pdf) |
+| M4 · 2 | Qua, 25/11 | Logs e custo: explicar o que aconteceu e quanto custou | [PDF](estudos-dirigidos/m4-2-logs-e-custo.pdf) |
+| M4 · 3 | Seg, 30/11 | Guardrails: o controle não pode depender do modelo | [PDF](estudos-dirigidos/m4-3-guardrails.pdf) |
 
 Todas on-line, das 19h às 22h.
 
